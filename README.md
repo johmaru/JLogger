@@ -1,6 +1,7 @@
 ## 低メモリ低処理速度Zloggerを即使用できるようにした個人的ライブラリ
 
 ### > [Zloggerリンク](https://github.com/Cysharp/ZLogger)
+#### Dependent ```Zlogger, Microsoft.Extensions.Logging```
 
 ## 使用方法
 
