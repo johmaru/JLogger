@@ -5,7 +5,7 @@
 
 ## 使用方法
 
-```public static Jlogger Logger = new(FactoryBuilder.CreateLogger().CreateLogger<Jlogger>());```
+```public static JLogger Logger = new(FactoryBuilder.CreateLogger().CreateLogger<JLogger>());```
 
 
 以上のようにLoggerの新規インスタンスを作成する
